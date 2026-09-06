@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p001",
+    "name": "Casque sans fil AuraSound",
+    "description": "Casque circum-aural avec réduction de bruit active, 30h d'autonomie et charge rapide USB-C.",
+    "price": 89.99,
+    "imageUrl": "https://picsum.photos/seed/auralsound-headphones/600/600",
+    "category": "Électronique",
+    "rating": 4.5,
+    "stock": 24
+  },
+  {
+    "id": "p002",
+    "name": "Montre connectée Pulse",
+    "description": "Suivi cardiaque, GPS intégré et étanchéité 5 ATM pour accompagner toutes vos activités.",
+    "price": 129.5,
+    "imageUrl": "https://picsum.photos/seed/pulse-watch/600/600",
+    "category": "Électronique",
+    "rating": 4.2,
+    "stock": 12
+  },
+  {
+    "id": "p003",
+    "name": "Enceinte portable Nomad",
+    "description": "Son 360°, résistante aux éclaboussures, 12h de musique en continu.",
+    "price": 54.0,
+    "imageUrl": "https://picsum.photos/seed/nomad-speaker/600/600",
+    "category": "Électronique",
+    "rating": 4.0,
+    "stock": 40
+  },
+  {
+    "id": "p004",
+    "name": "Veste en denim Urban",
+    "description": "Coupe classique en coton biologique, doublure douce, parfaite pour la mi-saison.",
+    "price": 65.0,
+    "imageUrl": "https://picsum.photos/seed/urban-denim-jacket/600/600",
+    "category": "Vêtements",
+    "rating": 4.3,
+    "stock": 18
+  },
+  {
+    "id": "p005",
+    "name": "T-shirt en coton bio Essential",
+    "description": "Coupe droite unisexe, coton 100% biologique certifié, disponible en plusieurs coloris.",
+    "price": 19.99,
+    "imageUrl": "https://picsum.photos/seed/essential-tshirt/600/600",
+    "category": "Vêtements",
+    "rating": 4.6,
+    "stock": 60
+  },
+  {
+    "id": "p006",
+    "name": "Baskets running AeroFlex",
+    "description": "Semelle amortissante réactive et tige respirante pour vos sorties running quotidiennes.",
+    "price": 78.9,
+    "imageUrl": "https://picsum.photos/seed/aeroflex-sneakers/600/600",
+    "category": "Sport",
+    "rating": 4.4,
+    "stock": 22
+  },
+  {
+    "id": "p007",
+    "name": "Tapis de yoga ZenGrip",
+    "description": "Surface antidérapante double face, épaisseur 6mm, sac de transport inclus.",
+    "price": 34.5,
+    "imageUrl": "https://picsum.photos/seed/zengrip-yogamat/600/600",
+    "category": "Sport",
+    "rating": 4.7,
+    "stock": 35
+  },
+  {
+    "id": "p008",
+    "name": "Gourde isotherme FlowBottle",
+    "description": "Garde vos boissons froides 24h ou chaudes 12h, inox sans BPA, 750ml.",
+    "price": 24.0,
+    "imageUrl": "https://picsum.photos/seed/flowbottle/600/600",
+    "category": "Sport",
+    "rating": 4.1,
+    "stock": 50
+  },
+  {
+    "id": "p009",
+    "name": "Lampe de bureau LumiSoft",
+    "description": "Éclairage LED à intensité réglable, port USB de charge intégré, bras articulé.",
+    "price": 39.9,
+    "imageUrl": "https://picsum.photos/seed/lumisoft-lamp/600/600",
+    "category": "Maison",
+    "rating": 4.3,
+    "stock": 28
+  },
+  {
+    "id": "p010",
+    "name": "Set de tasses en céramique Nordic",
+    "description": "Lot de 4 tasses au design scandinave épuré, passe au lave-vaisselle et micro-ondes.",
+    "price": 29.0,
+    "imageUrl": "https://picsum.photos/seed/nordic-mugs/600/600",
+    "category": "Maison",
+    "rating": 4.5,
+    "stock": 45
+  },
+  {
+    "id": "p011",
+    "name": "Coffret soins visage PureGlow",
+    "description": "Nettoyant doux, sérum vitamine C et crème hydratante pour une routine complète.",
+    "price": 49.0,
+    "imageUrl": "https://picsum.photos/seed/pureglow-skincare/600/600",
+    "category": "Beauté",
+    "rating": 4.6,
+    "stock": 30
+  },
+  {
+    "id": "p012",
+    "name": "Roman \"Les Sentiers Oubliés\"",
+    "description": "Un roman d'aventure captivant qui traverse trois générations et deux continents.",
+    "price": 14.5,
+    "imageUrl": "https://picsum.photos/seed/sentiers-oublies-book/600/600",
+    "category": "Livres",
+    "rating": 4.8,
+    "stock": 70
+  }
+]
